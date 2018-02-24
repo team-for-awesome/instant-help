@@ -6,4 +6,4 @@ Are you panicing right now? Don't panic. Just follow the instructions!
 ## Sad
 - Be kind to yourself
 - Go for a walk
-- Stop your thoughts focus on your breathing or an activity
+- Stop your thoughts, focus on your breathing or an activity
